@@ -318,6 +318,7 @@ body::-webkit-scrollbar-thumb {
     background-color: #B3E824;
     filter: blur(100px);
     border-radius: 50%;
+    pointer-events: none;
     z-index: 40;
     transform: translate(-50%, -50%);
 }
