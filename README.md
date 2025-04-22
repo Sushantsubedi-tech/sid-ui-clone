@@ -44,4 +44,4 @@ This is a front-end clone of Sid’s portfolio website, focused on smooth transi
 
 **Sushant Subedi**  
 GitHub: [@sushantsubedi-tech](https://github.com/sushantsubedi-tech)  
-LinkedIn: [linkedin.com/in/sushantsubedi](https://linkedin.com/in/sushantsubedi)
+LinkedIn: [linkedin.com/in/sushantsubedi](https://www.linkedin.com/in/sushant-subedi-516505341/)
